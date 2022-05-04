@@ -2,7 +2,11 @@
 
 Essa aplicação foi um estudo pessoal.
 Consiste na criação de um CRUD básico em Node.JS, para testar como o node se comporta no funcionamento de uma API.
-O modulo Express foi utilizado para facilitação do código.
+
+O módulo Express foi utilizado para facilitação do código, então, caso você precise testar, instale-o antes de subir o servidor: 
+```
+npm install express
+```
 
 
 ## **Tecnologias utilizadas**  
